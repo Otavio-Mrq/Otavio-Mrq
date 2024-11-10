@@ -76,9 +76,7 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/Inho.marques">
     ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=x4ia79987lngqa82l3mkajdip)
-  </a>
 </div>
 
 
