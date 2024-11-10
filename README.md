@@ -77,9 +77,9 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/Inho.marques">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Inho.marques&count=5" alt="Spotify recently played"  />
+    ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=x4ia79987lngqa82l3mkajdip)
   </a>
 </div>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=x4ia79987lngqa82l3mkajdip)
+
 ###
