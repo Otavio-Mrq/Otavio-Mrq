@@ -83,3 +83,11 @@
 
 
 ###
+
+<h2 align="left">Uma Inspiração</h2>
+
+###
+
+<p align="left">"Não creio que haja uma emoção, mais intensa para um inventor do que ver suas criações funcionando. Essa emoção faz você esquecer de comer, de dormir, de tudo."<br><br>- Nikola Tesla</p>
+
+###
