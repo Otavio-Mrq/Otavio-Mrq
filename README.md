@@ -37,6 +37,12 @@
 </div>
 
 ###
+  🛠️ Projetos em Destaque
+
+- 🚀 **[Nome do Projeto](link-para-o-projeto)** - Breve descrição do que ele faz.  
+- 📊 **[Outro Projeto](link-para-o-projeto)** - Alguma funcionalidade interessante.  
+
+###
 
 <h2 align="left">Status</h2>
 
