@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Estou a 3 anos no mundo da programação;<br>📚 Atualmemte estou aprendendo a utilizar Jenkins;<br>🎯 Fazendo projetos pessoais para aprimorar meu conhecimento;<br>
+<p align="left">✨ Estou a 4 anos no mundo da programação;<br>📚 Atualmemte estou aprendendo a utilizar Jenkins;<br>🎯 Fazendo projetos pessoais para aprimorar meu conhecimento;<br>
 
 ###
 
