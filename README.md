@@ -41,8 +41,8 @@
 
 ###
 
-- 🚀 **[Nome do Projeto](link-para-o-projeto)** - Breve descrição do que ele faz.  
-- 📊 **[Outro Projeto](link-para-o-projeto)** - Alguma funcionalidade interessante.  
+- 🚀 **[Central de Jogos](https://github.com/Otavio-Mrq/Central-de-Jogos)** - Meu projeto para reunir os jogos que eu desenvolvi com HTML e JavaScript.  
+- 📊 **[Projetos da faculdade]((https://github.com/Otavio-Mrq/Projetos_Faculdade))** - Projetos desenvolvidos durante o periodo da faculdade de Análise e Desenvolvimento de Sistemas.  
 
 ###
 
