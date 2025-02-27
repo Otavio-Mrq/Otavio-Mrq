@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Otávio Marques, atualmente atuo como desenvolvedor na I4I - Inteligence For Inovation.</p>
+<p align="left">Meu nome é Otávio Marques, atualmente atuo como desenvolvedor na I4I - Intelligence For Innovation.</p>
 
 ###
 
