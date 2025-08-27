@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Otávio Marques, atualmente atuo como desenvolvedor na I4I - Intelligence For Innovation.</p>
+<p align="left">Meu nome é Otávio Marques, atualmente atuo como desenvolvedor na Strink Sistemas.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Estou a 4 anos no mundo da programação;<br>📚 Atualmemte estou aprendendo a utilizar Jenkins;<br>🎯 Fazendo projetos pessoais para aprimorar meu conhecimento;<br>
+<p align="left">✨ Estou a 5 anos no mundo da programação;<br>📚 Atualmemte estou aprendendo a utilizar Jenkins;<br>🎯 Fazendo projetos pessoais para aprimorar meu conhecimento;<br>
 
 ###
 
