@@ -78,16 +78,6 @@
 
 ###
 
-<h2 align="left">Meu gosto musical</h2>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Inho.marques">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=x4ia79987lngqa82l3mkajdip&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
 
 ###
 
